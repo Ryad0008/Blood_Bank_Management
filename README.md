@@ -31,7 +31,8 @@ In this project blood donar is only KUETian but blood acceptor can be any person
 - personal info is necessary for both person becasue using this we can conmunicate again as we need
 - If acceptor then only he can accept blood as well as persoal info
 - After that the hole things are saved on blood bank database
-## contact
+-----------------------
+## Contact
 #### Name:Robiul Islam Ryad
 #### Roll:2007008
 #### Section:A
